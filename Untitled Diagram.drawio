@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="skMmWQSyblpexci2RbYU">
-    <mxGraphModel dx="1357" dy="1518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="1189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IP3LngXVH1wphO-wjGAb-1" value="Quy trình bồi hoàn chưa tối ưu&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="207" width="120" height="60" as="geometry" />
+          <mxGeometry x="588" y="207" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IP3LngXVH1wphO-wjGAb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-308" y="207" width="120" height="60" as="geometry" />
@@ -17,7 +17,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IP3LngXVH1wphO-wjGAb-6" value="Place" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1" y="-97" width="120" height="60" as="geometry" />
+          <mxGeometry x="183" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-7" value="People" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-244" y="-74" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-8" value="Processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-9" value="Policies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IP3LngXVH1wphO-wjGAb-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="122" as="sourcePoint" />
+            <mxPoint x="187" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="396" y="130" as="sourcePoint" />
+            <mxPoint x="145" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-12" value="phải mang sản phẩm tới beHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="173" y="96" width="242" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-14" value="phải mang sản phẩm trong&lt;br&gt;khung thời gian cho phép" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="226" y="135" width="208" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418" y="184" as="sourcePoint" />
+            <mxPoint x="167" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IP3LngXVH1wphO-wjGAb-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="237" as="sourcePoint" />
+            <mxPoint x="282" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="512" y="327" as="sourcePoint" />
+            <mxPoint x="261" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-18" value="chỉ tồn tại một BeHub&lt;br&gt;tại TP.HCM và TP.Hà Nội&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="308" y="277" width="196" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-67" y="146" as="sourcePoint" />
+            <mxPoint x="146" y="146.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-22" value="chưa tồn tại chính sách bồi hoàn&lt;br&gt;cho cửa hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="257" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IP3LngXVH1wphO-wjGAb-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-46" y="393" as="sourcePoint" />
+            <mxPoint x="-7" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="303" as="sourcePoint" />
+            <mxPoint x="-22" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="369" as="sourcePoint" />
+            <mxPoint x="-44" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IP3LngXVH1wphO-wjGAb-26" value="Mức bồi hoàn có giới hạn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="340" width="199" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
