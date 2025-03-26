@@ -1,18 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="skMmWQSyblpexci2RbYU">
-    <mxGraphModel dx="2099" dy="799" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2640" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IP3LngXVH1wphO-wjGAb-1" value="Quy trình bồi hoàn chưa tối ưu&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="207" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IP3LngXVH1wphO-wjGAb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="207" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IP3LngXVH1wphO-wjGAb-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IP3LngXVH1wphO-wjGAb-4" target="IP3LngXVH1wphO-wjGAb-1">
+        <mxCell id="IP3LngXVH1wphO-wjGAb-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="IP3LngXVH1wphO-wjGAb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-74" y="154" as="sourcePoint" />
+            <mxPoint x="-600" y="237" as="sourcePoint" />
             <mxPoint x="-24" y="104" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-79" y="237" />
@@ -43,11 +40,11 @@
             <mxPoint x="145" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IP3LngXVH1wphO-wjGAb-12" value="Chứng cứ phải được&amp;nbsp;&lt;br&gt;cung cấp đầy đủ và thẩm định" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="86" width="231" height="50" as="geometry" />
+        <mxCell id="IP3LngXVH1wphO-wjGAb-12" value="Yêu cầu bồi hoàn được&lt;br&gt;xử lý thủ công" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="203" y="86" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IP3LngXVH1wphO-wjGAb-14" value="Mâu thuẫn giữa khách hàng và tổng đài" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-552" y="101" width="300" height="31" as="geometry" />
+        <mxCell id="IP3LngXVH1wphO-wjGAb-14" value="Mâu thuẫn giữa khách hàng &lt;br&gt;và tổng đài" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-482" y="86" width="217" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IP3LngXVH1wphO-wjGAb-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -103,12 +100,6 @@
         <mxCell id="IP3LngXVH1wphO-wjGAb-27" value="Kết quả và tiền bồi hoàn &lt;br&gt;phải&amp;nbsp;chờ để nhận" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-61" y="97" width="191" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IP3LngXVH1wphO-wjGAb-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-446" y="296" as="sourcePoint" />
-            <mxPoint x="-131" y="296.40999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IP3LngXVH1wphO-wjGAb-29" value="Đề nghị bồi hoàn phải được&lt;br&gt;gửi trong vòng 1h" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-383" y="319" width="216" height="50" as="geometry" />
         </mxCell>
@@ -129,7 +120,7 @@
         </mxCell>
         <mxCell id="IP3LngXVH1wphO-wjGAb-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-559.5" y="132" as="sourcePoint" />
+            <mxPoint x="-477" y="129" as="sourcePoint" />
             <mxPoint x="-244.5" y="132.40999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
