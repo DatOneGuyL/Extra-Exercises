@@ -223,16 +223,16 @@
         </mxCell>
         <mxCell id="U_PIkrMg_ZQXYNeByQK9-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="466" y="1268" as="sourcePoint" />
-            <mxPoint x="206" y="1053" as="targetPoint" />
+            <mxPoint x="485" y="1254" as="sourcePoint" />
+            <mxPoint x="225" y="1039" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="368" y="1268" />
-              <mxPoint x="227" y="1160" />
+              <mxPoint x="387" y="1254" />
+              <mxPoint x="246" y="1146" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U_PIkrMg_ZQXYNeByQK9-27" value="Đưa kết quả&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="194" y="1190" width="60" height="30" as="geometry" />
+          <mxGeometry x="230.5" y="1180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U_PIkrMg_ZQXYNeByQK9-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -255,7 +255,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U_PIkrMg_ZQXYNeByQK9-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-34" value="Gọi điện&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-189" y="1039" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
