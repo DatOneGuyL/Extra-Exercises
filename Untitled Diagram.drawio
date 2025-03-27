@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="Page-1" id="skMmWQSyblpexci2RbYU">
-    <mxGraphModel dx="3253" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2807" dy="1205" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,6 +320,36 @@
         </mxCell>
         <mxCell id="U_PIkrMg_ZQXYNeByQK9-59" value="Qúa trình rườm rà, tốn kém, &lt;br&gt;tốn thời gian, tốn nhân lực&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="602" y="529" width="263" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-60" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;Hài lòng khách hàng&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="1389.5" width="148" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-61" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-495" y="1371.5" as="sourcePoint" />
+            <mxPoint x="-495" y="1419.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-62" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;Năng suất shipper&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="893.5" width="148" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-63" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;Hài lòng shipper&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="894.25" width="148" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-67" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-159.36" y="877" as="sourcePoint" />
+            <mxPoint x="-159.36" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-68" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-317" y="877" as="sourcePoint" />
+            <mxPoint x="-317" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_PIkrMg_ZQXYNeByQK9-69" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 15px;&quot;&gt;Chi phí nhân lực tốn kém&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="720" width="179" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
