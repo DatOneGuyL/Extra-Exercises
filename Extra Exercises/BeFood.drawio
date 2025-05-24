@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.8" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9" pages="2">
   <diagram name="Use Case Phân rã" id="aSyZMbDlXNtMB8vJEveZ">
-    <mxGraphModel dx="1778" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1402" dy="142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,19 +181,20 @@
             <mxPoint x="1475" y="2740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joH6gZ2oFBB2ViDGEuEe-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=13;" edge="1" parent="1" source="ryLFqx8EvpKuFx9JKz-p-18" target="ryLFqx8EvpKuFx9JKz-p-17">
+        <mxCell id="joH6gZ2oFBB2ViDGEuEe-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=13;" parent="1" source="ryLFqx8EvpKuFx9JKz-p-18" target="ryLFqx8EvpKuFx9JKz-p-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1500" y="2290" as="sourcePoint" />
             <mxPoint x="1500" y="2354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joH6gZ2oFBB2ViDGEuEe-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=13;" edge="1" parent="1" source="ryLFqx8EvpKuFx9JKz-p-18" target="ryLFqx8EvpKuFx9JKz-p-16">
-          <mxGeometry width="160" relative="1" as="geometry">
+        <mxCell id="joH6gZ2oFBB2ViDGEuEe-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=13;" parent="1" source="ryLFqx8EvpKuFx9JKz-p-18" target="ryLFqx8EvpKuFx9JKz-p-16" edge="1">
+          <mxGeometry x="0.0038" width="160" relative="1" as="geometry">
             <mxPoint x="1160" y="2260" as="sourcePoint" />
             <mxPoint x="1226" y="2338" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joH6gZ2oFBB2ViDGEuEe-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="ryLFqx8EvpKuFx9JKz-p-12" target="ryLFqx8EvpKuFx9JKz-p-18">
+        <mxCell id="joH6gZ2oFBB2ViDGEuEe-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="ryLFqx8EvpKuFx9JKz-p-12" target="ryLFqx8EvpKuFx9JKz-p-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="2287" as="sourcePoint" />
             <mxPoint x="1256" y="2130" as="targetPoint" />
