@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9" pages="2">
   <diagram name="Use Case Phân rã" id="aSyZMbDlXNtMB8vJEveZ">
-    <mxGraphModel dx="1778" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           <mxGeometry x="1160" y="2760" width="140" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="ryLFqx8EvpKuFx9JKz-p-31" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;14.2 Vô hiệu hóa tài khoản người dùng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="2872.25" width="140" height="85.5" as="geometry" />
+          <mxGeometry x="1210" y="2872.25" width="140" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="ryLFqx8EvpKuFx9JKz-p-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="ryLFqx8EvpKuFx9JKz-p-28" target="ryLFqx8EvpKuFx9JKz-p-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -175,11 +175,20 @@
             <mxPoint x="1140.0000000000027" y="2205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jfnFX1pDhLWxbRhNpuGH-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;11.3. Yêu cầu &lt;br&gt;bồi hoàn&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jfnFX1pDhLWxbRhNpuGH-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;11.3. Yêu cầu &lt;br&gt;bồi hoàn&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1190" y="2234" width="140" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="jfnFX1pDhLWxbRhNpuGH-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;11.4. Đánh giá đơn hàng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="jfnFX1pDhLWxbRhNpuGH-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;11.4. Đánh giá đơn hàng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1090" y="2340" width="140" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GJWjyEI48ZKmKf6BF6kN-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;14.3&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;. Xóa tài khoản người dùng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2980" width="140" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GJWjyEI48ZKmKf6BF6kN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="ryLFqx8EvpKuFx9JKz-p-28" target="GJWjyEI48ZKmKf6BF6kN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="2957.75" as="sourcePoint" />
+            <mxPoint x="1215" y="3010.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
