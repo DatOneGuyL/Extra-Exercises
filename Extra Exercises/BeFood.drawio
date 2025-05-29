@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.1" pages="2">
   <diagram name="Use Case Phân rã" id="aSyZMbDlXNtMB8vJEveZ">
-    <mxGraphModel dx="1872" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="12665" dy="5805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1525,36 +1525,6 @@
               <mxPoint x="150" y="1147" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-724" value="11.2. Đặt lại đơn hàng" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="270" width="684" height="695" as="geometry" />
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-725" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9L1VIUaYL2hIDNZRXsCO-724" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="169.9565217391305" as="sourcePoint" />
-            <mxPoint x="430" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-726" value="Khách hàng" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=12 12;" parent="9L1VIUaYL2hIDNZRXsCO-724" vertex="1">
-          <mxGeometry y="20" width="315" height="675" as="geometry" />
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-727" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="9L1VIUaYL2hIDNZRXsCO-726" source="9L1VIUaYL2hIDNZRXsCO-728" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="70" as="sourcePoint" />
-            <mxPoint x="140" y="129.99999999999977" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-728" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="9L1VIUaYL2hIDNZRXsCO-726" vertex="1">
-          <mxGeometry x="125" y="40" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-729" value="1. Yêu cầu đặt lại đơn hàng" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;arcSize=10;dashed=0;strokeColor=default;verticalAlign=top;absoluteArcSize=1;fontColor=default;fillColor=default;" parent="9L1VIUaYL2hIDNZRXsCO-726" vertex="1">
-          <mxGeometry x="70" y="130" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-730" value="App" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=12 12;" parent="9L1VIUaYL2hIDNZRXsCO-724" vertex="1">
-          <mxGeometry x="315" y="20" width="369" height="675" as="geometry" />
-        </mxCell>
-        <mxCell id="9L1VIUaYL2hIDNZRXsCO-731" value="2. Kiểm tra nhà hàng" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;arcSize=10;dashed=0;strokeColor=default;verticalAlign=top;absoluteArcSize=1;fontColor=default;fillColor=default;" parent="9L1VIUaYL2hIDNZRXsCO-730" vertex="1">
-          <mxGeometry x="114.5" y="130" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9L1VIUaYL2hIDNZRXsCO-772" value="Chỉnh sửa&amp;nbsp;&lt;div&gt;đơn hàng&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3410" y="3013" width="80" height="40" as="geometry" />
