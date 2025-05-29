@@ -4186,7 +4186,7 @@
         <mxCell id="knFpkkX4h3y_JFCvzwlF-1204" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="3306.6" y="6330.01" width="10" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="knFpkkX4h3y_JFCvzwlF-1205" value="14.2.1. Trả về kết quả hủy đơn hàng" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="knFpkkX4h3y_JFCvzwlF-1205" value="14.2.1. Thông báo hủy đặt lại&lt;div&gt;thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.003" relative="1" as="geometry">
             <mxPoint x="3312.39" y="6370.320000000001" as="sourcePoint" />
             <mxPoint x="3109.6" y="6370.320000000001" as="targetPoint" />
@@ -4231,7 +4231,7 @@
         <mxCell id="knFpkkX4h3y_JFCvzwlF-1214" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="3306" y="6531" width="10" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="knFpkkX4h3y_JFCvzwlF-1215" value="11.2.2. Yêu cầu thông báo đặt&amp;nbsp;&lt;div&gt;thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="knFpkkX4h3y_JFCvzwlF-1214">
+        <mxCell id="knFpkkX4h3y_JFCvzwlF-1215" value="11.2.2. Thông báo đặt lại đơn hàng&lt;div&gt;thành công&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="knFpkkX4h3y_JFCvzwlF-1214">
           <mxGeometry x="0.003" relative="1" as="geometry">
             <mxPoint x="3314.39" y="6594.13" as="sourcePoint" />
             <mxPoint x="3111.6" y="6594.13" as="targetPoint" />
